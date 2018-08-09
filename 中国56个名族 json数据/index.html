@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>中国56个民族选择框及JSON数据</title>
+</head>
+<body>
+<div>
+    <select id="ethnic"></select>
+</div>
+<script type="text/javascript" src="http://res.42du.cn/vendor/jquery/jquery.min.js"></script>
+<script type="text/javascript">
+    function callback42(data) {
+        var cs= $("#ethnic");
+        $(data).each(function(i,item){
+            cs.append("<option value='"+item.en+"'>"+item.name+"</option>");
+        });
+    }
+    $(document).ready(function () {
+        $.ajax({
+            type:"get",
+            dataType:"jsonp",
+            url:"http://res.42du.cn/static/json/ethnic.jsonp",
+            jsonpCallback:"callback42"
+        });
+    });
+</script>
+</body>
+</html>

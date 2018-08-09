@@ -1,0 +1,2153 @@
+[
+    {
+        "area": "647,500", 
+        "code": "93", 
+        "en": "Afghanistan", 
+        "cn": "阿富汗", 
+        "iso2": "AF", 
+        "iso3": "AFG", 
+        "population": "29,121,286"
+    }, 
+    {
+        "area": "28,748", 
+        "code": "355", 
+        "en": "Albania", 
+        "cn": "阿尔巴尼亚", 
+        "iso2": "AL", 
+        "iso3": "ALB", 
+        "population": "2,986,952"
+    }, 
+    {
+        "area": "2,381,740", 
+        "code": "213", 
+        "en": "Algeria", 
+        "cn": "阿尔及利亚", 
+        "iso2": "DZ", 
+        "iso3": "DZA", 
+        "population": "34,586,184"
+    }, 
+    {
+        "area": "199", 
+        "code": "1-684", 
+        "en": "American Samoa", 
+        "cn": "美属萨摩亚", 
+        "iso2": "AS", 
+        "iso3": "ASM", 
+        "population": "57,881"
+    }, 
+    {
+        "area": "468", 
+        "code": "376", 
+        "en": "Andorra", 
+        "cn": "安道尔共和国", 
+        "iso2": "AD", 
+        "iso3": "AND", 
+        "population": "84,000"
+    }, 
+    {
+        "area": "1,246,700", 
+        "code": "244", 
+        "en": "Angola", 
+        "cn": "安哥拉", 
+        "iso2": "AO", 
+        "iso3": "AGO", 
+        "population": "13,068,161"
+    }, 
+    {
+        "area": "102", 
+        "code": "1-264", 
+        "en": "Anguilla", 
+        "cn": "安圭拉岛", 
+        "iso2": "AI", 
+        "iso3": "AIA", 
+        "population": "13,254"
+    }, 
+    {
+        "area": "443", 
+        "code": "1-268", 
+        "en": "Antigua and Barbuda", 
+        "cn": "安提瓜和巴布达", 
+        "iso2": "AG", 
+        "iso3": "ATG", 
+        "population": "86,754"
+    }, 
+    {
+        "area": "2,766,890", 
+        "code": "54", 
+        "en": "Argentina", 
+        "cn": "阿根廷", 
+        "iso2": "AR", 
+        "iso3": "ARG", 
+        "population": "41,343,201"
+    }, 
+    {
+        "area": "29,800", 
+        "code": "374", 
+        "en": "Armenia", 
+        "cn": "亚美尼亚", 
+        "iso2": "AM", 
+        "iso3": "ARM", 
+        "population": "2,968,000"
+    }, 
+    {
+        "area": "193", 
+        "code": "297", 
+        "en": "Aruba", 
+        "cn": "阿鲁巴", 
+        "iso2": "AW", 
+        "iso3": "ABW", 
+        "population": "71,566"
+    }, 
+    {
+        "area": "7,686,850", 
+        "code": "61", 
+        "en": "Australia", 
+        "cn": "澳大利亚", 
+        "iso2": "AU", 
+        "iso3": "AUS", 
+        "population": "21,515,754"
+    }, 
+    {
+        "area": "83,858", 
+        "code": "43", 
+        "en": "Austria", 
+        "cn": "奥地利", 
+        "iso2": "AT", 
+        "iso3": "AUT", 
+        "population": "8,205,000"
+    }, 
+    {
+        "area": "86,600", 
+        "code": "994", 
+        "en": "Azerbaijan", 
+        "cn": "阿塞拜疆", 
+        "iso2": "AZ", 
+        "iso3": "AZE", 
+        "population": "8,303,512"
+    }, 
+    {
+        "area": "13,940", 
+        "code": "1-242", 
+        "en": "Bahamas", 
+        "cn": "巴哈马", 
+        "iso2": "BS", 
+        "iso3": "BHS", 
+        "population": "301,790"
+    }, 
+    {
+        "area": "665", 
+        "code": "973", 
+        "en": "Bahrain", 
+        "cn": "巴林", 
+        "iso2": "BH", 
+        "iso3": "BHR", 
+        "population": "738,004"
+    }, 
+    {
+        "area": "144,000", 
+        "code": "880", 
+        "en": "Bangladesh", 
+        "cn": "孟加拉国", 
+        "iso2": "BD", 
+        "iso3": "BGD", 
+        "population": "156,118,464"
+    }, 
+    {
+        "area": "431", 
+        "code": "1-246", 
+        "en": "Barbados", 
+        "cn": "巴巴多斯", 
+        "iso2": "BB", 
+        "iso3": "BRB", 
+        "population": "285,653"
+    }, 
+    {
+        "area": "207,600", 
+        "code": "375", 
+        "en": "Belarus", 
+        "cn": "白俄罗斯", 
+        "iso2": "BY", 
+        "iso3": "BLR", 
+        "population": "9,685,000"
+    }, 
+    {
+        "area": "30,510", 
+        "code": "32", 
+        "en": "Belgium", 
+        "cn": "比利时", 
+        "iso2": "BE", 
+        "iso3": "BEL", 
+        "population": "10,403,000"
+    }, 
+    {
+        "area": "22,966", 
+        "code": "501", 
+        "en": "Belize", 
+        "cn": "伯利兹", 
+        "iso2": "BZ", 
+        "iso3": "BLZ", 
+        "population": "314,522"
+    }, 
+    {
+        "area": "112,620", 
+        "code": "229", 
+        "en": "Benin", 
+        "cn": "贝宁", 
+        "iso2": "BJ", 
+        "iso3": "BEN", 
+        "population": "9,056,010"
+    }, 
+    {
+        "area": "53", 
+        "code": "1-441", 
+        "en": "Bermuda", 
+        "cn": "百慕大群岛", 
+        "iso2": "BM", 
+        "iso3": "BMU", 
+        "population": "65,365"
+    }, 
+    {
+        "area": "47,000", 
+        "code": "975", 
+        "en": "Bhutan", 
+        "cn": "不丹", 
+        "iso2": "BT", 
+        "iso3": "BTN", 
+        "population": "699,847"
+    }, 
+    {
+        "area": "1,098,580", 
+        "code": "591", 
+        "en": "Bolivia", 
+        "cn": "玻利维亚", 
+        "iso2": "BO", 
+        "iso3": "BOL", 
+        "population": "9,947,418"
+    }, 
+    {
+        "area": "51,129", 
+        "code": "387", 
+        "en": "Bosnia and Herzegovina", 
+        "cn": "波黑", 
+        "iso2": "BA", 
+        "iso3": "BIH", 
+        "population": "4,590,000"
+    }, 
+    {
+        "area": "600,370", 
+        "code": "267", 
+        "en": "Botswana", 
+        "cn": "博茨瓦纳", 
+        "iso2": "BW", 
+        "iso3": "BWA", 
+        "population": "2,029,307"
+    }, 
+    {
+        "area": "8,511,965", 
+        "code": "55", 
+        "en": "Brazil", 
+        "cn": "巴西", 
+        "iso2": "BR", 
+        "iso3": "BRA", 
+        "population": "201,103,330"
+    }, 
+    {
+        "area": "60", 
+        "code": "246", 
+        "en": "British Indian Ocean Territory", 
+        "cn": "英属印度洋领地", 
+        "iso2": "IO", 
+        "iso3": "IOT", 
+        "population": "4,000"
+    }, 
+    {
+        "area": "153", 
+        "code": "1-284", 
+        "en": "British Virgin Islands", 
+        "cn": "英属维尔京群岛", 
+        "iso2": "VG", 
+        "iso3": "VGB", 
+        "population": "21,730"
+    }, 
+    {
+        "area": "5,770", 
+        "code": "673", 
+        "en": "Brunei", 
+        "cn": "文莱", 
+        "iso2": "BN", 
+        "iso3": "BRN", 
+        "population": "395,027"
+    }, 
+    {
+        "area": "110,910", 
+        "code": "359", 
+        "en": "Bulgaria", 
+        "cn": "保加利亚", 
+        "iso2": "BG", 
+        "iso3": "BGR", 
+        "population": "7,148,785"
+    }, 
+    {
+        "area": "274,200", 
+        "code": "226", 
+        "en": "Burkina Faso", 
+        "cn": "布基纳法索", 
+        "iso2": "BF", 
+        "iso3": "BFA", 
+        "population": "16,241,811"
+    }, 
+    {
+        "area": "27,830", 
+        "code": "257", 
+        "en": "Burundi", 
+        "cn": "布隆迪", 
+        "iso2": "BI", 
+        "iso3": "BDI", 
+        "population": "9,863,117"
+    }, 
+    {
+        "area": "181,040", 
+        "code": "855", 
+        "en": "Cambodia", 
+        "cn": "柬埔寨", 
+        "iso2": "KH", 
+        "iso3": "KHM", 
+        "population": "14,453,680"
+    }, 
+    {
+        "area": "475,440", 
+        "code": "237", 
+        "en": "Cameroon", 
+        "cn": "喀麦隆", 
+        "iso2": "CM", 
+        "iso3": "CMR", 
+        "population": "19,294,149"
+    }, 
+    {
+        "area": "9,984,670", 
+        "code": "1", 
+        "en": "Canada", 
+        "cn": "加拿大", 
+        "iso2": "CA", 
+        "iso3": "CAN", 
+        "population": "33,679,000"
+    }, 
+    {
+        "area": "4,033", 
+        "code": "238", 
+        "en": "Cape Verde", 
+        "cn": "佛得角", 
+        "iso2": "CV", 
+        "iso3": "CPV", 
+        "population": "508,659"
+    }, 
+    {
+        "area": "262", 
+        "code": "1-345", 
+        "en": "Cayman Islands", 
+        "cn": "开曼群岛", 
+        "iso2": "KY", 
+        "iso3": "CYM", 
+        "population": "44,270"
+    }, 
+    {
+        "area": "622,984", 
+        "code": "236", 
+        "en": "Central African Republic", 
+        "cn": "中非共和国", 
+        "iso2": "CF", 
+        "iso3": "CAF", 
+        "population": "4,844,927"
+    }, 
+    {
+        "area": "1,284,000", 
+        "code": "235", 
+        "en": "Chad", 
+        "cn": "乍得", 
+        "iso2": "TD", 
+        "iso3": "TCD", 
+        "population": "10,543,464"
+    }, 
+    {
+        "area": "756,950", 
+        "code": "56", 
+        "en": "Chile", 
+        "cn": "智利", 
+        "iso2": "CL", 
+        "iso3": "CHL", 
+        "population": "16,746,491"
+    }, 
+    {
+        "area": "9,596,960", 
+        "code": "86", 
+        "en": "China", 
+        "cn": "中国", 
+        "iso2": "CN", 
+        "iso3": "CHN", 
+        "population": "1,330,044,000"
+    }, 
+    {
+        "area": "135", 
+        "code": "61", 
+        "en": "Christmas Island", 
+        "cn": "圣诞岛", 
+        "iso2": "CX", 
+        "iso3": "CXR", 
+        "population": "1,500"
+    }, 
+    {
+        "area": "14", 
+        "code": "61", 
+        "en": "Cocos Islands", 
+        "cn": "科科斯群岛", 
+        "iso2": "CC", 
+        "iso3": "CCK", 
+        "population": "628"
+    }, 
+    {
+        "area": "1,138,910", 
+        "code": "57", 
+        "en": "Colombia", 
+        "cn": "哥伦比亚", 
+        "iso2": "CO", 
+        "iso3": "COL", 
+        "population": "47,790,000"
+    }, 
+    {
+        "area": "2,170", 
+        "code": "269", 
+        "en": "Comoros", 
+        "cn": "科摩罗伊斯兰联邦", 
+        "iso2": "KM", 
+        "iso3": "COM", 
+        "population": "773,407"
+    }, 
+    {
+        "area": "240", 
+        "code": "682", 
+        "en": "Cook Islands", 
+        "cn": "库克群岛", 
+        "iso2": "CK", 
+        "iso3": "COK", 
+        "population": "21,388"
+    }, 
+    {
+        "area": "51,100", 
+        "code": "506", 
+        "en": "Costa Rica", 
+        "cn": "哥斯达黎加", 
+        "iso2": "CR", 
+        "iso3": "CRI", 
+        "population": "4,516,220"
+    }, 
+    {
+        "area": "56,542", 
+        "code": "385", 
+        "en": "Croatia", 
+        "cn": "克罗地亚", 
+        "iso2": "HR", 
+        "iso3": "HRV", 
+        "population": "4,491,000"
+    }, 
+    {
+        "area": "110,860", 
+        "code": "53", 
+        "en": "Cuba", 
+        "cn": "古巴", 
+        "iso2": "CU", 
+        "iso3": "CUB", 
+        "population": "11,423,000"
+    }, 
+    {
+        "area": "444", 
+        "code": "599", 
+        "en": "Curacao", 
+        "cn": "库拉索", 
+        "iso2": "CW", 
+        "iso3": "CUW", 
+        "population": "141,766"
+    }, 
+    {
+        "area": "9,250", 
+        "code": "357", 
+        "en": "Cyprus", 
+        "cn": "塞浦路斯", 
+        "iso2": "CY", 
+        "iso3": "CYP", 
+        "population": "1,102,677"
+    }, 
+    {
+        "area": "78,866", 
+        "code": "420", 
+        "en": "Czech Republic", 
+        "cn": "捷克", 
+        "iso2": "CZ", 
+        "iso3": "CZE", 
+        "population": "10,476,000"
+    }, 
+    {
+        "area": "2,345,410", 
+        "code": "243", 
+        "en": "Democratic Republic of the Congo", 
+        "cn": "刚果", 
+        "iso2": "CD", 
+        "iso3": "COD", 
+        "population": "70,916,439"
+    }, 
+    {
+        "area": "43,094", 
+        "code": "45", 
+        "en": "Denmark", 
+        "cn": "丹麦", 
+        "iso2": "DK", 
+        "iso3": "DNK", 
+        "population": "5,484,000"
+    }, 
+    {
+        "area": "23,000", 
+        "code": "253", 
+        "en": "Djibouti", 
+        "cn": "吉布提", 
+        "iso2": "DJ", 
+        "iso3": "DJI", 
+        "population": "740,528"
+    }, 
+    {
+        "area": "754", 
+        "code": "1-767", 
+        "en": "Dominica", 
+        "cn": "多米尼克", 
+        "iso2": "DM", 
+        "iso3": "DMA", 
+        "population": "72,813"
+    }, 
+    {
+        "area": "48,730", 
+        "code": "1-809, 1-829, 1-849", 
+        "en": "Dominican Republic", 
+        "cn": "多米尼加共和国", 
+        "iso2": "DO", 
+        "iso3": "DOM", 
+        "population": "9,823,821"
+    }, 
+    {
+        "area": "15,007", 
+        "code": "670", 
+        "en": "East Timor", 
+        "cn": "东帝汶", 
+        "iso2": "TL", 
+        "iso3": "TLS", 
+        "population": "1,154,625"
+    }, 
+    {
+        "area": "283,560", 
+        "code": "593", 
+        "en": "Ecuador", 
+        "cn": "厄瓜多尔", 
+        "iso2": "EC", 
+        "iso3": "ECU", 
+        "population": "14,790,608"
+    }, 
+    {
+        "area": "1,001,450", 
+        "code": "20", 
+        "en": "Egypt", 
+        "cn": "埃及", 
+        "iso2": "EG", 
+        "iso3": "EGY", 
+        "population": "80,471,869"
+    }, 
+    {
+        "area": "21,040", 
+        "code": "503", 
+        "en": "El Salvador", 
+        "cn": "萨尔瓦多", 
+        "iso2": "SV", 
+        "iso3": "SLV", 
+        "population": "6,052,064"
+    }, 
+    {
+        "area": "28,051", 
+        "code": "240", 
+        "en": "Equatorial Guinea", 
+        "cn": "赤道几内亚", 
+        "iso2": "GQ", 
+        "iso3": "GNQ", 
+        "population": "1,014,999"
+    }, 
+    {
+        "area": "121,320", 
+        "code": "291", 
+        "en": "Eritrea", 
+        "cn": "厄立特里亚", 
+        "iso2": "ER", 
+        "iso3": "ERI", 
+        "population": "5,792,984"
+    }, 
+    {
+        "area": "45,226", 
+        "code": "372", 
+        "en": "Estonia", 
+        "cn": "爱沙尼亚", 
+        "iso2": "EE", 
+        "iso3": "EST", 
+        "population": "1,291,170"
+    }, 
+    {
+        "area": "1,127,127", 
+        "code": "251", 
+        "en": "Ethiopia", 
+        "cn": "埃塞俄比亚", 
+        "iso2": "ET", 
+        "iso3": "ETH", 
+        "population": "88,013,491"
+    }, 
+    {
+        "area": "12,173", 
+        "code": "500", 
+        "en": "Falkland Islands", 
+        "cn": "福克兰群岛", 
+        "iso2": "FK", 
+        "iso3": "FLK", 
+        "population": "2,638"
+    }, 
+    {
+        "area": "1,399", 
+        "code": "298", 
+        "en": "Faroe Islands", 
+        "cn": "法罗群岛", 
+        "iso2": "FO", 
+        "iso3": "FRO", 
+        "population": "48,228"
+    }, 
+    {
+        "area": "18,270", 
+        "code": "679", 
+        "en": "Fiji", 
+        "cn": "斐济", 
+        "iso2": "FJ", 
+        "iso3": "FJI", 
+        "population": "875,983"
+    }, 
+    {
+        "area": "337,030", 
+        "code": "358", 
+        "en": "Finland", 
+        "cn": "芬兰", 
+        "iso2": "FI", 
+        "iso3": "FIN", 
+        "population": "5,244,000"
+    }, 
+    {
+        "area": "547,030", 
+        "code": "33", 
+        "en": "France", 
+        "cn": "法国", 
+        "iso2": "FR", 
+        "iso3": "FRA", 
+        "population": "64,768,389"
+    }, 
+    {
+        "area": "4,167", 
+        "code": "689", 
+        "en": "French Polynesia", 
+        "cn": "法属玻利尼西亚", 
+        "iso2": "PF", 
+        "iso3": "PYF", 
+        "population": "270,485"
+    }, 
+    {
+        "area": "267,667", 
+        "code": "241", 
+        "en": "Gabon", 
+        "cn": "加蓬", 
+        "iso2": "GA", 
+        "iso3": "GAB", 
+        "population": "1,545,255"
+    }, 
+    {
+        "area": "11,300", 
+        "code": "220", 
+        "en": "Gambia", 
+        "cn": "冈比亚", 
+        "iso2": "GM", 
+        "iso3": "GMB", 
+        "population": "1,593,256"
+    }, 
+    {
+        "area": "69,700", 
+        "code": "995", 
+        "en": "Georgia", 
+        "cn": "格鲁吉亚", 
+        "iso2": "GE", 
+        "iso3": "GEO", 
+        "population": "4,630,000"
+    }, 
+    {
+        "area": "357,021", 
+        "code": "49", 
+        "en": "Germany", 
+        "cn": "德国", 
+        "iso2": "DE", 
+        "iso3": "DEU", 
+        "population": "81,802,257"
+    }, 
+    {
+        "area": "239,460", 
+        "code": "233", 
+        "en": "Ghana", 
+        "cn": "加纳", 
+        "iso2": "GH", 
+        "iso3": "GHA", 
+        "population": "24,339,838"
+    }, 
+    {
+        "area": "7", 
+        "code": "350", 
+        "en": "Gibraltar", 
+        "cn": "直布罗陀", 
+        "iso2": "GI", 
+        "iso3": "GIB", 
+        "population": "27,884"
+    }, 
+    {
+        "area": "131,940", 
+        "code": "30", 
+        "en": "Greece", 
+        "cn": "希腊", 
+        "iso2": "GR", 
+        "iso3": "GRC", 
+        "population": "11,000,000"
+    }, 
+    {
+        "area": "2,166,086", 
+        "code": "299", 
+        "en": "Greenland", 
+        "cn": "格陵兰岛", 
+        "iso2": "GL", 
+        "iso3": "GRL", 
+        "population": "56,375"
+    }, 
+    {
+        "area": "344", 
+        "code": "1-473", 
+        "en": "Grenada", 
+        "cn": "格林纳达", 
+        "iso2": "GD", 
+        "iso3": "GRD", 
+        "population": "107,818"
+    }, 
+    {
+        "area": "549", 
+        "code": "1-671", 
+        "en": "Guam", 
+        "cn": "关岛", 
+        "iso2": "GU", 
+        "iso3": "GUM", 
+        "population": "159,358"
+    }, 
+    {
+        "area": "108,890", 
+        "code": "502", 
+        "en": "Guatemala", 
+        "cn": "危地马拉", 
+        "iso2": "GT", 
+        "iso3": "GTM", 
+        "population": "13,550,440"
+    }, 
+    {
+        "area": "78", 
+        "code": "44-1481", 
+        "en": "Guernsey", 
+        "cn": "根西", 
+        "iso2": "GG", 
+        "iso3": "GGY", 
+        "population": "65,228"
+    }, 
+    {
+        "area": "245,857", 
+        "code": "224", 
+        "en": "Guinea", 
+        "cn": "几内亚", 
+        "iso2": "GN", 
+        "iso3": "GIN", 
+        "population": "10,324,025"
+    }, 
+    {
+        "area": "36,120", 
+        "code": "245", 
+        "en": "Guinea-Bissau", 
+        "cn": "几内亚比绍", 
+        "iso2": "GW", 
+        "iso3": "GNB", 
+        "population": "1,565,126"
+    }, 
+    {
+        "area": "214,970", 
+        "code": "592", 
+        "en": "Guyana", 
+        "cn": "圭亚那", 
+        "iso2": "GY", 
+        "iso3": "GUY", 
+        "population": "748,486"
+    }, 
+    {
+        "area": "27,750", 
+        "code": "509", 
+        "en": "Haiti", 
+        "cn": "海地", 
+        "iso2": "HT", 
+        "iso3": "HTI", 
+        "population": "9,648,924"
+    }, 
+    {
+        "area": "112,090", 
+        "code": "504", 
+        "en": "Honduras", 
+        "cn": "洪都拉斯", 
+        "iso2": "HN", 
+        "iso3": "HND", 
+        "population": "7,989,415"
+    }, 
+    {
+        "area": "1,092", 
+        "code": "852", 
+        "en": "Hong Kong", 
+        "cn": "香港", 
+        "iso2": "HK", 
+        "iso3": "HKG", 
+        "population": "6,898,686"
+    }, 
+    {
+        "area": "93,030", 
+        "code": "36", 
+        "en": "Hungary", 
+        "cn": "匈牙利", 
+        "iso2": "HU", 
+        "iso3": "HUN", 
+        "population": "9,982,000"
+    }, 
+    {
+        "area": "103,000", 
+        "code": "354", 
+        "en": "Iceland", 
+        "cn": "冰岛", 
+        "iso2": "IS", 
+        "iso3": "ISL", 
+        "population": "308,910"
+    }, 
+    {
+        "area": "3,287,590", 
+        "code": "91", 
+        "en": "India", 
+        "cn": "印度", 
+        "iso2": "IN", 
+        "iso3": "IND", 
+        "population": "1,173,108,018"
+    }, 
+    {
+        "area": "1,919,440", 
+        "code": "62", 
+        "en": "Indonesia", 
+        "cn": "印度尼西亚", 
+        "iso2": "ID", 
+        "iso3": "IDN", 
+        "population": "242,968,342"
+    }, 
+    {
+        "area": "1,648,000", 
+        "code": "98", 
+        "en": "Iran", 
+        "cn": "伊朗", 
+        "iso2": "IR", 
+        "iso3": "IRN", 
+        "population": "76,923,300"
+    }, 
+    {
+        "area": "437,072", 
+        "code": "964", 
+        "en": "Iraq", 
+        "cn": "伊拉克", 
+        "iso2": "IQ", 
+        "iso3": "IRQ", 
+        "population": "29,671,605"
+    }, 
+    {
+        "area": "70,280", 
+        "code": "353", 
+        "en": "Ireland", 
+        "cn": "爱尔兰", 
+        "iso2": "IE", 
+        "iso3": "IRL", 
+        "population": "4,622,917"
+    }, 
+    {
+        "area": "572", 
+        "code": "44-1624", 
+        "en": "Isle of Man", 
+        "cn": "马恩岛", 
+        "iso2": "IM", 
+        "iso3": "IMN", 
+        "population": "75,049"
+    }, 
+    {
+        "area": "20,770", 
+        "code": "972", 
+        "en": "Israel", 
+        "cn": "以色列", 
+        "iso2": "IL", 
+        "iso3": "ISR", 
+        "population": "7,353,985"
+    }, 
+    {
+        "area": "301,230", 
+        "code": "39", 
+        "en": "Italy", 
+        "cn": "意大利", 
+        "iso2": "IT", 
+        "iso3": "ITA", 
+        "population": "60,340,328"
+    }, 
+    {
+        "area": "322,460", 
+        "code": "225", 
+        "en": "Ivory Coast", 
+        "cn": "科特迪瓦", 
+        "iso2": "CI", 
+        "iso3": "CIV", 
+        "population": "21,058,798"
+    }, 
+    {
+        "area": "10,991", 
+        "code": "1-876", 
+        "en": "Jamaica", 
+        "cn": "牙买加", 
+        "iso2": "JM", 
+        "iso3": "JAM", 
+        "population": "2,847,232"
+    }, 
+    {
+        "area": "377,835", 
+        "code": "81", 
+        "en": "Japan", 
+        "cn": "日本", 
+        "iso2": "JP", 
+        "iso3": "JPN", 
+        "population": "127,288,000"
+    }, 
+    {
+        "area": "116", 
+        "code": "44-1534", 
+        "en": "Jersey", 
+        "cn": "泽西岛", 
+        "iso2": "JE", 
+        "iso3": "JEY", 
+        "population": "90,812"
+    }, 
+    {
+        "area": "92,300", 
+        "code": "962", 
+        "en": "Jordan", 
+        "cn": "约旦", 
+        "iso2": "JO", 
+        "iso3": "JOR", 
+        "population": "6,407,085"
+    }, 
+    {
+        "area": "2,717,300", 
+        "code": "7", 
+        "en": "Kazakhstan", 
+        "cn": "哈萨克斯坦", 
+        "iso2": "KZ", 
+        "iso3": "KAZ", 
+        "population": "15,340,000"
+    }, 
+    {
+        "area": "582,650", 
+        "code": "254", 
+        "en": "Kenya", 
+        "cn": "肯尼亚", 
+        "iso2": "KE", 
+        "iso3": "KEN", 
+        "population": "40,046,566"
+    }, 
+    {
+        "area": "811", 
+        "code": "686", 
+        "en": "Kiribati", 
+        "cn": "基里巴斯", 
+        "iso2": "KI", 
+        "iso3": "KIR", 
+        "population": "92,533"
+    }, 
+    {
+        "area": "10,887", 
+        "code": "383", 
+        "en": "Kosovo", 
+        "cn": "科索沃", 
+        "iso2": "XK", 
+        "iso3": "XKX", 
+        "population": "1,800,000"
+    }, 
+    {
+        "area": "17,820", 
+        "code": "965", 
+        "en": "Kuwait", 
+        "cn": "科威特", 
+        "iso2": "KW", 
+        "iso3": "KWT", 
+        "population": "2,789,132"
+    }, 
+    {
+        "area": "198,500", 
+        "code": "996", 
+        "en": "Kyrgyzstan", 
+        "cn": "吉尔吉斯坦", 
+        "iso2": "KG", 
+        "iso3": "KGZ", 
+        "population": "5,508,626"
+    }, 
+    {
+        "area": "236,800", 
+        "code": "856", 
+        "en": "Laos", 
+        "cn": "老挝", 
+        "iso2": "LA", 
+        "iso3": "LAO", 
+        "population": "6,368,162"
+    }, 
+    {
+        "area": "64,589", 
+        "code": "371", 
+        "en": "Latvia", 
+        "cn": "拉脱维亚", 
+        "iso2": "LV", 
+        "iso3": "LVA", 
+        "population": "2,217,969"
+    }, 
+    {
+        "area": "10,400", 
+        "code": "961", 
+        "en": "Lebanon", 
+        "cn": "黎巴嫩", 
+        "iso2": "LB", 
+        "iso3": "LBN", 
+        "population": "4,125,247"
+    }, 
+    {
+        "area": "30,355", 
+        "code": "266", 
+        "en": "Lesotho", 
+        "cn": "莱索托", 
+        "iso2": "LS", 
+        "iso3": "LSO", 
+        "population": "1,919,552"
+    }, 
+    {
+        "area": "111,370", 
+        "code": "231", 
+        "en": "Liberia", 
+        "cn": "利比里亚", 
+        "iso2": "LR", 
+        "iso3": "LBR", 
+        "population": "3,685,076"
+    }, 
+    {
+        "area": "1,759,540", 
+        "code": "218", 
+        "en": "Libya", 
+        "cn": "利比亚", 
+        "iso2": "LY", 
+        "iso3": "LBY", 
+        "population": "6,461,454"
+    }, 
+    {
+        "area": "160", 
+        "code": "423", 
+        "en": "Liechtenstein", 
+        "cn": "列支敦士登", 
+        "iso2": "LI", 
+        "iso3": "LIE", 
+        "population": "35,000"
+    }, 
+    {
+        "area": "65,200", 
+        "code": "370", 
+        "en": "Lithuania", 
+        "cn": "立陶宛", 
+        "iso2": "LT", 
+        "iso3": "LTU", 
+        "population": "2,944,459"
+    }, 
+    {
+        "area": "2,586", 
+        "code": "352", 
+        "en": "Luxembourg", 
+        "cn": "卢森堡", 
+        "iso2": "LU", 
+        "iso3": "LUX", 
+        "population": "497,538"
+    }, 
+    {
+        "area": "254", 
+        "code": "853", 
+        "en": "Macau", 
+        "cn": "澳门", 
+        "iso2": "MO", 
+        "iso3": "MAC", 
+        "population": "449,198"
+    }, 
+    {
+        "area": "25,333", 
+        "code": "389", 
+        "en": "Macedonia", 
+        "cn": "马其顿", 
+        "iso2": "MK", 
+        "iso3": "MKD", 
+        "population": "2,062,294"
+    }, 
+    {
+        "area": "587,040", 
+        "code": "261", 
+        "en": "Madagascar", 
+        "cn": "马达加斯加", 
+        "iso2": "MG", 
+        "iso3": "MDG", 
+        "population": "21,281,844"
+    }, 
+    {
+        "area": "118,480", 
+        "code": "265", 
+        "en": "Malawi", 
+        "cn": "马拉维", 
+        "iso2": "MW", 
+        "iso3": "MWI", 
+        "population": "15,447,500"
+    }, 
+    {
+        "area": "329,750", 
+        "code": "60", 
+        "en": "Malaysia", 
+        "cn": "马来西亚", 
+        "iso2": "MY", 
+        "iso3": "MYS", 
+        "population": "28,274,729"
+    }, 
+    {
+        "area": "300", 
+        "code": "960", 
+        "en": "Maldives", 
+        "cn": "马尔代夫", 
+        "iso2": "MV", 
+        "iso3": "MDV", 
+        "population": "395,650"
+    }, 
+    {
+        "area": "1,240,000", 
+        "code": "223", 
+        "en": "Mali", 
+        "cn": "马里", 
+        "iso2": "ML", 
+        "iso3": "MLI", 
+        "population": "13,796,354"
+    }, 
+    {
+        "area": "316", 
+        "code": "356", 
+        "en": "Malta", 
+        "cn": "马耳他", 
+        "iso2": "MT", 
+        "iso3": "MLT", 
+        "population": "403,000"
+    }, 
+    {
+        "area": "181", 
+        "code": "692", 
+        "en": "Marshall Islands", 
+        "cn": "马绍尔群岛", 
+        "iso2": "MH", 
+        "iso3": "MHL", 
+        "population": "65,859"
+    }, 
+    {
+        "area": "1,030,700", 
+        "code": "222", 
+        "en": "Mauritania", 
+        "cn": "毛里塔尼亚", 
+        "iso2": "MR", 
+        "iso3": "MRT", 
+        "population": "3,205,060"
+    }, 
+    {
+        "area": "2,040", 
+        "code": "230", 
+        "en": "Mauritius", 
+        "cn": "毛里求斯", 
+        "iso2": "MU", 
+        "iso3": "MUS", 
+        "population": "1,294,104"
+    }, 
+    {
+        "area": "374", 
+        "code": "262", 
+        "en": "Mayotte", 
+        "cn": "马约特", 
+        "iso2": "YT", 
+        "iso3": "MYT", 
+        "population": "159,042"
+    }, 
+    {
+        "area": "1,972,550", 
+        "code": "52", 
+        "en": "Mexico", 
+        "cn": "墨西哥", 
+        "iso2": "MX", 
+        "iso3": "MEX", 
+        "population": "112,468,855"
+    }, 
+    {
+        "area": "702", 
+        "code": "691", 
+        "en": "Micronesia", 
+        "cn": "密克罗尼西亚联邦", 
+        "iso2": "FM", 
+        "iso3": "FSM", 
+        "population": "107,708"
+    }, 
+    {
+        "area": "33,843", 
+        "code": "373", 
+        "en": "Moldova", 
+        "cn": "摩尔多瓦", 
+        "iso2": "MD", 
+        "iso3": "MDA", 
+        "population": "4,324,000"
+    }, 
+    {
+        "area": "2", 
+        "code": "377", 
+        "en": "Monaco", 
+        "cn": "摩纳哥", 
+        "iso2": "MC", 
+        "iso3": "MCO", 
+        "population": "32,965"
+    }, 
+    {
+        "area": "1,565,000", 
+        "code": "976", 
+        "en": "Mongolia", 
+        "cn": "蒙古", 
+        "iso2": "MN", 
+        "iso3": "MNG", 
+        "population": "3,086,918"
+    }, 
+    {
+        "area": "14,026", 
+        "code": "382", 
+        "en": "Montenegro", 
+        "cn": "黑山", 
+        "iso2": "ME", 
+        "iso3": "MNE", 
+        "population": "666,730"
+    }, 
+    {
+        "area": "102", 
+        "code": "1-664", 
+        "en": "Montserrat", 
+        "cn": "蒙特塞拉特岛", 
+        "iso2": "MS", 
+        "iso3": "MSR", 
+        "population": "9,341"
+    }, 
+    {
+        "area": "446,550", 
+        "code": "212", 
+        "en": "Morocco", 
+        "cn": "摩洛哥", 
+        "iso2": "MA", 
+        "iso3": "MAR", 
+        "population": "31,627,428"
+    }, 
+    {
+        "area": "801,590", 
+        "code": "258", 
+        "en": "Mozambique", 
+        "cn": "莫桑比克", 
+        "iso2": "MZ", 
+        "iso3": "MOZ", 
+        "population": "22,061,451"
+    }, 
+    {
+        "area": "678,500", 
+        "code": "95", 
+        "en": "Myanmar", 
+        "cn": "缅甸", 
+        "iso2": "MM", 
+        "iso3": "MMR", 
+        "population": "53,414,374"
+    }, 
+    {
+        "area": "825,418", 
+        "code": "264", 
+        "en": "Namibia", 
+        "cn": "纳米比亚", 
+        "iso2": "NA", 
+        "iso3": "NAM", 
+        "population": "2,128,471"
+    }, 
+    {
+        "area": "21", 
+        "code": "674", 
+        "en": "Nauru", 
+        "cn": "瑙鲁", 
+        "iso2": "NR", 
+        "iso3": "NRU", 
+        "population": "10,065"
+    }, 
+    {
+        "area": "140,800", 
+        "code": "977", 
+        "en": "Nepal", 
+        "cn": "尼泊尔", 
+        "iso2": "NP", 
+        "iso3": "NPL", 
+        "population": "28,951,852"
+    }, 
+    {
+        "area": "41,526", 
+        "code": "31", 
+        "en": "Netherlands", 
+        "cn": "荷兰", 
+        "iso2": "NL", 
+        "iso3": "NLD", 
+        "population": "16,645,000"
+    }, 
+    {
+        "area": "960", 
+        "code": "599", 
+        "en": "Netherlands Antilles", 
+        "cn": "荷属安的列斯群岛", 
+        "iso2": "AN", 
+        "iso3": "ANT", 
+        "population": "136,197"
+    }, 
+    {
+        "area": "19,060", 
+        "code": "687", 
+        "en": "New Caledonia", 
+        "cn": "新喀里多尼亚", 
+        "iso2": "NC", 
+        "iso3": "NCL", 
+        "population": "216,494"
+    }, 
+    {
+        "area": "268,680", 
+        "code": "64", 
+        "en": "New Zealand", 
+        "cn": "新西兰", 
+        "iso2": "NZ", 
+        "iso3": "NZL", 
+        "population": "4,252,277"
+    }, 
+    {
+        "area": "129,494", 
+        "code": "505", 
+        "en": "Nicaragua", 
+        "cn": "尼加拉瓜", 
+        "iso2": "NI", 
+        "iso3": "NIC", 
+        "population": "5,995,928"
+    }, 
+    {
+        "area": "1,267,000", 
+        "code": "227", 
+        "en": "Niger", 
+        "cn": "尼日尔", 
+        "iso2": "NE", 
+        "iso3": "NER", 
+        "population": "15,878,271"
+    }, 
+    {
+        "area": "923,768", 
+        "code": "234", 
+        "en": "Nigeria", 
+        "cn": "尼日利亚", 
+        "iso2": "NG", 
+        "iso3": "NGA", 
+        "population": "154,000,000"
+    }, 
+    {
+        "area": "260", 
+        "code": "683", 
+        "en": "Niue", 
+        "cn": "纽埃岛", 
+        "iso2": "NU", 
+        "iso3": "NIU", 
+        "population": "2,166"
+    }, 
+    {
+        "area": "120,540", 
+        "code": "850", 
+        "en": "North Korea", 
+        "cn": "朝鲜", 
+        "iso2": "KP", 
+        "iso3": "PRK", 
+        "population": "22,912,177"
+    }, 
+    {
+        "area": "477", 
+        "code": "1-670", 
+        "en": "Northern Mariana Islands", 
+        "cn": "北马里亚纳群岛", 
+        "iso2": "MP", 
+        "iso3": "MNP", 
+        "population": "53,883"
+    }, 
+    {
+        "area": "324,220", 
+        "code": "47", 
+        "en": "Norway", 
+        "cn": "挪威", 
+        "iso2": "NO", 
+        "iso3": "NOR", 
+        "population": "5,009,150"
+    }, 
+    {
+        "area": "212,460", 
+        "code": "968", 
+        "en": "Oman", 
+        "cn": "阿曼", 
+        "iso2": "OM", 
+        "iso3": "OMN", 
+        "population": "2,967,717"
+    }, 
+    {
+        "area": "803,940", 
+        "code": "92", 
+        "en": "Pakistan", 
+        "cn": "巴基斯坦", 
+        "iso2": "PK", 
+        "iso3": "PAK", 
+        "population": "184,404,791"
+    }, 
+    {
+        "area": "458", 
+        "code": "680", 
+        "en": "Palau", 
+        "cn": "帕劳", 
+        "iso2": "PW", 
+        "iso3": "PLW", 
+        "population": "19,907"
+    }, 
+    {
+        "area": "5,970", 
+        "code": "970", 
+        "en": "Palestine", 
+        "cn": "巴勒斯坦", 
+        "iso2": "PS", 
+        "iso3": "PSE", 
+        "population": "3,800,000"
+    }, 
+    {
+        "area": "78,200", 
+        "code": "507", 
+        "en": "Panama", 
+        "cn": "巴拿马", 
+        "iso2": "PA", 
+        "iso3": "PAN", 
+        "population": "3,410,676"
+    }, 
+    {
+        "area": "462,840", 
+        "code": "675", 
+        "en": "Papua New Guinea", 
+        "cn": "巴布亚新几内亚", 
+        "iso2": "PG", 
+        "iso3": "PNG", 
+        "population": "6,064,515"
+    }, 
+    {
+        "area": "406,750", 
+        "code": "595", 
+        "en": "Paraguay", 
+        "cn": "巴拉圭", 
+        "iso2": "PY", 
+        "iso3": "PRY", 
+        "population": "6,375,830"
+    }, 
+    {
+        "area": "1,285,220", 
+        "code": "51", 
+        "en": "Peru", 
+        "cn": "秘鲁", 
+        "iso2": "PE", 
+        "iso3": "PER", 
+        "population": "29,907,003"
+    }, 
+    {
+        "area": "300,000", 
+        "code": "63", 
+        "en": "Philippines", 
+        "cn": "菲律宾", 
+        "iso2": "PH", 
+        "iso3": "PHL", 
+        "population": "99,900,177"
+    }, 
+    {
+        "area": "47", 
+        "code": "64", 
+        "en": "Pitcairn", 
+        "cn": "皮特克恩", 
+        "iso2": "PN", 
+        "iso3": "PCN", 
+        "population": "46"
+    }, 
+    {
+        "area": "312,685", 
+        "code": "48", 
+        "en": "Poland", 
+        "cn": "波兰", 
+        "iso2": "PL", 
+        "iso3": "POL", 
+        "population": "38,500,000"
+    }, 
+    {
+        "area": "92,391", 
+        "code": "351", 
+        "en": "Portugal", 
+        "cn": "葡萄牙", 
+        "iso2": "PT", 
+        "iso3": "PRT", 
+        "population": "10,676,000"
+    }, 
+    {
+        "area": "9,104", 
+        "code": "1-787, 1-939", 
+        "en": "Puerto Rico", 
+        "cn": "波多黎各", 
+        "iso2": "PR", 
+        "iso3": "PRI", 
+        "population": "3,916,632"
+    }, 
+    {
+        "area": "11,437", 
+        "code": "974", 
+        "en": "Qatar", 
+        "cn": "卡塔尔", 
+        "iso2": "QA", 
+        "iso3": "QAT", 
+        "population": "840,926"
+    }, 
+    {
+        "area": "342,000", 
+        "code": "242", 
+        "en": "Republic of the Congo", 
+        "cn": "刚果", 
+        "iso2": "CG", 
+        "iso3": "COG", 
+        "population": "3,039,126"
+    }, 
+    {
+        "area": "2,517", 
+        "code": "262", 
+        "en": "Reunion", 
+        "cn": "留尼汪", 
+        "iso2": "RE", 
+        "iso3": "REU", 
+        "population": "776,948"
+    }, 
+    {
+        "area": "237,500", 
+        "code": "40", 
+        "en": "Romania", 
+        "cn": "罗马尼亚", 
+        "iso2": "RO", 
+        "iso3": "ROU", 
+        "population": "21,959,278"
+    }, 
+    {
+        "area": "17,100,000", 
+        "code": "7", 
+        "en": "Russia", 
+        "cn": "俄罗斯", 
+        "iso2": "RU", 
+        "iso3": "RUS", 
+        "population": "140,702,000"
+    }, 
+    {
+        "area": "26,338", 
+        "code": "250", 
+        "en": "Rwanda", 
+        "cn": "卢旺达", 
+        "iso2": "RW", 
+        "iso3": "RWA", 
+        "population": "11,055,976"
+    }, 
+    {
+        "area": "21", 
+        "code": "590", 
+        "en": "Saint Barthelemy", 
+        "cn": "圣巴泰勒米", 
+        "iso2": "BL", 
+        "iso3": "BLM", 
+        "population": "8,450"
+    }, 
+    {
+        "area": "410", 
+        "code": "290", 
+        "en": "Saint Helena", 
+        "cn": "圣赫勒拿", 
+        "iso2": "SH", 
+        "iso3": "SHN", 
+        "population": "7,460"
+    }, 
+    {
+        "area": "261", 
+        "code": "1-869", 
+        "en": "Saint Kitts and Nevis", 
+        "cn": "圣基茨和尼维斯联邦", 
+        "iso2": "KN", 
+        "iso3": "KNA", 
+        "population": "51,134"
+    }, 
+    {
+        "area": "616", 
+        "code": "1-758", 
+        "en": "Saint Lucia", 
+        "cn": "圣卢西亚", 
+        "iso2": "LC", 
+        "iso3": "LCA", 
+        "population": "160,922"
+    }, 
+    {
+        "area": "53", 
+        "code": "590", 
+        "en": "Saint Martin", 
+        "cn": "圣马丁岛", 
+        "iso2": "MF", 
+        "iso3": "MAF", 
+        "population": "35,925"
+    }, 
+    {
+        "area": "242", 
+        "code": "508", 
+        "en": "Saint Pierre and Miquelon", 
+        "cn": "圣皮埃尔和密克隆", 
+        "iso2": "PM", 
+        "iso3": "SPM", 
+        "population": "7,012"
+    }, 
+    {
+        "area": "389", 
+        "code": "1-784", 
+        "en": "Saint Vincent and the Grenadines", 
+        "cn": "圣文森特", 
+        "iso2": "VC", 
+        "iso3": "VCT", 
+        "population": "104,217"
+    }, 
+    {
+        "area": "2,944", 
+        "code": "685", 
+        "en": "Samoa", 
+        "cn": "萨摩亚群岛", 
+        "iso2": "WS", 
+        "iso3": "WSM", 
+        "population": "192,001"
+    }, 
+    {
+        "area": "61", 
+        "code": "378", 
+        "en": "San Marino", 
+        "cn": "圣马力诺", 
+        "iso2": "SM", 
+        "iso3": "SMR", 
+        "population": "31,477"
+    }, 
+    {
+        "area": "1,001", 
+        "code": "239", 
+        "en": "Sao Tome and Principe", 
+        "cn": "圣多美和普林西比", 
+        "iso2": "ST", 
+        "iso3": "STP", 
+        "population": "175,808"
+    }, 
+    {
+        "area": "1,960,582", 
+        "code": "966", 
+        "en": "Saudi Arabia", 
+        "cn": "沙特阿拉伯", 
+        "iso2": "SA", 
+        "iso3": "SAU", 
+        "population": "25,731,776"
+    }, 
+    {
+        "area": "196,190", 
+        "code": "221", 
+        "en": "Senegal", 
+        "cn": "塞内加尔", 
+        "iso2": "SN", 
+        "iso3": "SEN", 
+        "population": "12,323,252"
+    }, 
+    {
+        "area": "88,361", 
+        "code": "381", 
+        "en": "Serbia", 
+        "cn": "塞尔维亚", 
+        "iso2": "RS", 
+        "iso3": "SRB", 
+        "population": "7,344,847"
+    }, 
+    {
+        "area": "455", 
+        "code": "248", 
+        "en": "Seychelles", 
+        "cn": "塞舌尔", 
+        "iso2": "SC", 
+        "iso3": "SYC", 
+        "population": "88,340"
+    }, 
+    {
+        "area": "71,740", 
+        "code": "232", 
+        "en": "Sierra Leone", 
+        "cn": "塞拉利昂", 
+        "iso2": "SL", 
+        "iso3": "SLE", 
+        "population": "5,245,695"
+    }, 
+    {
+        "area": "693", 
+        "code": "65", 
+        "en": "Singapore", 
+        "cn": "新加坡", 
+        "iso2": "SG", 
+        "iso3": "SGP", 
+        "population": "4,701,069"
+    }, 
+    {
+        "area": "34", 
+        "code": "1-721", 
+        "en": "Sint Maarten", 
+        "cn": "圣马丁", 
+        "iso2": "SX", 
+        "iso3": "SXM", 
+        "population": "37,429"
+    }, 
+    {
+        "area": "48,845", 
+        "code": "421", 
+        "en": "Slovakia", 
+        "cn": "斯洛伐克", 
+        "iso2": "SK", 
+        "iso3": "SVK", 
+        "population": "5,455,000"
+    }, 
+    {
+        "area": "20,273", 
+        "code": "386", 
+        "en": "Slovenia", 
+        "cn": "斯洛文尼亚", 
+        "iso2": "SI", 
+        "iso3": "SVN", 
+        "population": "2,007,000"
+    }, 
+    {
+        "area": "28,450", 
+        "code": "677", 
+        "en": "Solomon Islands", 
+        "cn": "所罗门群岛", 
+        "iso2": "SB", 
+        "iso3": "SLB", 
+        "population": "559,198"
+    }, 
+    {
+        "area": "637,657", 
+        "code": "252", 
+        "en": "Somalia", 
+        "cn": "索马里", 
+        "iso2": "SO", 
+        "iso3": "SOM", 
+        "population": "10,112,453"
+    }, 
+    {
+        "area": "1,219,912", 
+        "code": "27", 
+        "en": "South Africa", 
+        "cn": "南非", 
+        "iso2": "ZA", 
+        "iso3": "ZAF", 
+        "population": "49,000,000"
+    }, 
+    {
+        "area": "98,480", 
+        "code": "82", 
+        "en": "South Korea", 
+        "cn": "韩国", 
+        "iso2": "KR", 
+        "iso3": "KOR", 
+        "population": "48,422,644"
+    }, 
+    {
+        "area": "644,329", 
+        "code": "211", 
+        "en": "South Sudan", 
+        "cn": "南苏丹", 
+        "iso2": "SS", 
+        "iso3": "SSD", 
+        "population": "8,260,490"
+    }, 
+    {
+        "area": "504,782", 
+        "code": "34", 
+        "en": "Spain", 
+        "cn": "西班牙", 
+        "iso2": "ES", 
+        "iso3": "ESP", 
+        "population": "46,505,963"
+    }, 
+    {
+        "area": "65,610", 
+        "code": "94", 
+        "en": "Sri Lanka", 
+        "cn": "斯里兰卡", 
+        "iso2": "LK", 
+        "iso3": "LKA", 
+        "population": "21,513,990"
+    }, 
+    {
+        "area": "1,861,484", 
+        "code": "249", 
+        "en": "Sudan", 
+        "cn": "苏丹", 
+        "iso2": "SD", 
+        "iso3": "SDN", 
+        "population": "35,000,000"
+    }, 
+    {
+        "area": "163,270", 
+        "code": "597", 
+        "en": "Suriname", 
+        "cn": "苏里南", 
+        "iso2": "SR", 
+        "iso3": "SUR", 
+        "population": "492,829"
+    }, 
+    {
+        "area": "62,049", 
+        "code": "47", 
+        "en": "Svalbard and Jan Mayen", 
+        "cn": "斯瓦尔巴和扬马延", 
+        "iso2": "SJ", 
+        "iso3": "SJM", 
+        "population": "2,550"
+    }, 
+    {
+        "area": "17,363", 
+        "code": "268", 
+        "en": "Swaziland", 
+        "cn": "斯威士兰", 
+        "iso2": "SZ", 
+        "iso3": "SWZ", 
+        "population": "1,354,051"
+    }, 
+    {
+        "area": "449,964", 
+        "code": "46", 
+        "en": "Sweden", 
+        "cn": "瑞典", 
+        "iso2": "SE", 
+        "iso3": "SWE", 
+        "population": "9,555,893"
+    }, 
+    {
+        "area": "41,290", 
+        "code": "41", 
+        "en": "Switzerland", 
+        "cn": "瑞士", 
+        "iso2": "CH", 
+        "iso3": "CHE", 
+        "population": "7,581,000"
+    }, 
+    {
+        "area": "185,180", 
+        "code": "963", 
+        "en": "Syria", 
+        "cn": "叙利亚", 
+        "iso2": "SY", 
+        "iso3": "SYR", 
+        "population": "22,198,110"
+    }, 
+    {
+        "area": "35,980", 
+        "code": "886", 
+        "en": "Taiwan", 
+        "cn": "中国台湾省", 
+        "iso2": "TW", 
+        "iso3": "TWN", 
+        "population": "22,894,384"
+    }, 
+    {
+        "area": "143,100", 
+        "code": "992", 
+        "en": "Tajikistan", 
+        "cn": "塔吉克斯坦", 
+        "iso2": "TJ", 
+        "iso3": "TJK", 
+        "population": "7,487,489"
+    }, 
+    {
+        "area": "945,087", 
+        "code": "255", 
+        "en": "Tanzania", 
+        "cn": "坦桑尼亚", 
+        "iso2": "TZ", 
+        "iso3": "TZA", 
+        "population": "41,892,895"
+    }, 
+    {
+        "area": "514,000", 
+        "code": "66", 
+        "en": "Thailand", 
+        "cn": "泰国", 
+        "iso2": "TH", 
+        "iso3": "THA", 
+        "population": "67,089,500"
+    }, 
+    {
+        "area": "56,785", 
+        "code": "228", 
+        "en": "Togo", 
+        "cn": "多哥", 
+        "iso2": "TG", 
+        "iso3": "TGO", 
+        "population": "6,587,239"
+    }, 
+    {
+        "area": "10", 
+        "code": "690", 
+        "en": "Tokelau", 
+        "cn": "托克劳群岛", 
+        "iso2": "TK", 
+        "iso3": "TKL", 
+        "population": "1,466"
+    }, 
+    {
+        "area": "748", 
+        "code": "676", 
+        "en": "Tonga", 
+        "cn": "汤加", 
+        "iso2": "TO", 
+        "iso3": "TON", 
+        "population": "122,580"
+    }, 
+    {
+        "area": "5,128", 
+        "code": "1-868", 
+        "en": "Trinidad and Tobago", 
+        "cn": "特立尼达和多巴哥", 
+        "iso2": "TT", 
+        "iso3": "TTO", 
+        "population": "1,228,691"
+    }, 
+    {
+        "area": "163,610", 
+        "code": "216", 
+        "en": "Tunisia", 
+        "cn": "突尼斯", 
+        "iso2": "TN", 
+        "iso3": "TUN", 
+        "population": "10,589,025"
+    }, 
+    {
+        "area": "780,580", 
+        "code": "90", 
+        "en": "Turkey", 
+        "cn": "土耳其", 
+        "iso2": "TR", 
+        "iso3": "TUR", 
+        "population": "77,804,122"
+    }, 
+    {
+        "area": "488,100", 
+        "code": "993", 
+        "en": "Turkmenistan", 
+        "cn": "土库曼斯坦", 
+        "iso2": "TM", 
+        "iso3": "TKM", 
+        "population": "4,940,916"
+    }, 
+    {
+        "area": "430", 
+        "code": "1-649", 
+        "en": "Turks and Caicos Islands", 
+        "cn": "特克斯和凯科斯群岛", 
+        "iso2": "TC", 
+        "iso3": "TCA", 
+        "population": "20,556"
+    }, 
+    {
+        "area": "26", 
+        "code": "688", 
+        "en": "Tuvalu", 
+        "cn": "图瓦卢", 
+        "iso2": "TV", 
+        "iso3": "TUV", 
+        "population": "10,472"
+    }, 
+    {
+        "area": "352", 
+        "code": "1-340", 
+        "en": "U.S. Virgin Islands", 
+        "cn": "美属维尔京群岛", 
+        "iso2": "VI", 
+        "iso3": "VIR", 
+        "population": "108,708"
+    }, 
+    {
+        "area": "236,040", 
+        "code": "256", 
+        "en": "Uganda", 
+        "cn": "乌干达", 
+        "iso2": "UG", 
+        "iso3": "UGA", 
+        "population": "33,398,682"
+    }, 
+    {
+        "area": "603,700", 
+        "code": "380", 
+        "en": "Ukraine", 
+        "cn": "乌克兰", 
+        "iso2": "UA", 
+        "iso3": "UKR", 
+        "population": "45,415,596"
+    }, 
+    {
+        "area": "82,880", 
+        "code": "971", 
+        "en": "United Arab Emirates", 
+        "cn": "阿拉伯联合酋长国", 
+        "iso2": "AE", 
+        "iso3": "ARE", 
+        "population": "4,975,593"
+    }, 
+    {
+        "area": "244,820", 
+        "code": "44", 
+        "en": "United Kingdom", 
+        "cn": "英国", 
+        "iso2": "GB", 
+        "iso3": "GBR", 
+        "population": "62,348,447"
+    }, 
+    {
+        "area": "9,629,091", 
+        "code": "1", 
+        "en": "United States", 
+        "cn": "美国", 
+        "iso2": "US", 
+        "iso3": "USA", 
+        "population": "310,232,863"
+    }, 
+    {
+        "area": "176,220", 
+        "code": "598", 
+        "en": "Uruguay", 
+        "cn": "乌拉圭", 
+        "iso2": "UY", 
+        "iso3": "URY", 
+        "population": "3,477,000"
+    }, 
+    {
+        "area": "447,400", 
+        "code": "998", 
+        "en": "Uzbekistan", 
+        "cn": "乌兹别克斯坦", 
+        "iso2": "UZ", 
+        "iso3": "UZB", 
+        "population": "27,865,738"
+    }, 
+    {
+        "area": "12,200", 
+        "code": "678", 
+        "en": "Vanuatu", 
+        "cn": "瓦努阿图", 
+        "iso2": "VU", 
+        "iso3": "VUT", 
+        "population": "221,552"
+    }, 
+    {
+        "area": "0", 
+        "code": "379", 
+        "en": "Vatican", 
+        "cn": "梵蒂冈", 
+        "iso2": "VA", 
+        "iso3": "VAT", 
+        "population": "921"
+    }, 
+    {
+        "area": "912,050", 
+        "code": "58", 
+        "en": "Venezuela", 
+        "cn": "委内瑞拉", 
+        "iso2": "VE", 
+        "iso3": "VEN", 
+        "population": "27,223,228"
+    }, 
+    {
+        "area": "329,560", 
+        "code": "84", 
+        "en": "Vietnam", 
+        "cn": "越南", 
+        "iso2": "VN", 
+        "iso3": "VNM", 
+        "population": "89,571,130"
+    }, 
+    {
+        "area": "274", 
+        "code": "681", 
+        "en": "Wallis and Futuna", 
+        "cn": "瓦利斯和富图纳群岛", 
+        "iso2": "WF", 
+        "iso3": "WLF", 
+        "population": "16,025"
+    }, 
+    {
+        "area": "266,000", 
+        "code": "212", 
+        "en": "Western Sahara", 
+        "cn": "西撒哈拉", 
+        "iso2": "EH", 
+        "iso3": "ESH", 
+        "population": "273,008"
+    }, 
+    {
+        "area": "527,970", 
+        "code": "967", 
+        "en": "Yemen", 
+        "cn": "也门", 
+        "iso2": "YE", 
+        "iso3": "YEM", 
+        "population": "23,495,361"
+    }, 
+    {
+        "area": "752,614", 
+        "code": "260", 
+        "en": "Zambia", 
+        "cn": "赞比亚", 
+        "iso2": "ZM", 
+        "iso3": "ZMB", 
+        "population": "13,460,305"
+    }, 
+    {
+        "area": "390,580", 
+        "code": "263", 
+        "en": "Zimbabwe", 
+        "cn": "津巴布韦", 
+        "iso2": "ZW", 
+        "iso3": "ZWE", 
+        "population": "11,651,858"
+    }
+]
